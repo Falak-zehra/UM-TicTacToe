@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0 ;
+}
+
+
+nav{
+    background-color: red;
+    height: 40px;
+    
+    color: white;
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+nav ul{
+    list-style: none;
+   text-align: center;
+    
+}
+body{
+    text-align: center;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,10vw);
+    grid-template-rows: repeat(3,10vw);
+    justify-content: center;
+    text-align: center;
+   font-size: 5vw;
+
+    
+   
+   padding: 80px;
+}
+    
+   
+.box{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    
+
+    
+    cursor: pointer;
+    
+
+
+
+
+
+}
+.box:hover{
+    background-color: bisque;
+
+}
+
+
+
+
+.bl{
+    border-left:0;
+    }
+    
+    
+    .br{
+        border-right: 0;
+    }
+    .bt{
+        border-top: 0;
+    }
+    
+    .bb{
+        border-bottom: 0;
+    }
+    
+
+    
+    #resetbtn{
+
+        background-color: orange;
+        padding: 9px;
+        font-family: sans-serif;
+        border-radius: 50px;
+        
+
+
+    }
+    #win{
+        color: blue;
+        font-size: 20px;
+
+    }
+    #newbtn{
+        background-color: orange;
+        padding: 8px;
+        border-radius: 50px;
+
+    }
+    .winmsg{
+        height: 100vmin;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+.hide{
+    display: none;
+}
+
+
+    
+
