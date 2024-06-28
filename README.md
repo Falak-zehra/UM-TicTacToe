@@ -13,6 +13,9 @@ A simple Tic tac toe game using html, css and javascript
 ## Demo
 
 You can play the game from this link =>https://falak-zehra.github.io/UM-TicTacToe/
+![Alt text](relative/path/to/image.png "Optional title")
+![Alt text](relative/path/to/image.png "Optional title")
+![Alt text](relative/path/to/image.png "Optional title")
 
 
 
