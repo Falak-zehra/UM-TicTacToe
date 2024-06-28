@@ -13,10 +13,10 @@ A simple Tic tac toe game using html, css and javascript
 ## Demo
 
 You can play the game from this link =>https://falak-zehra.github.io/UM-TicTacToe/
-![Alt text](Screenshot (12).png)
+![Alt text](tictactoe1.png)
 
-![Alt text](Screenshot (14).png)
-![Alt text](Screenshot (15).png)
+![Alt text](tictactoe2.png)
+![Alt text](tictactoe3.png)
 
 
 
